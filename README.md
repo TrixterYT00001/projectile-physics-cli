@@ -16,4 +16,4 @@ Visual Feedback: Includes a text-based trajectory renderer for terminal environm
 🛠 Usage
 Ensure you have Python installed, then run: python projectile.py
 
-~Developed as part of my 2026 Physics Research Portfolio.~
+Developed as part of my 2026 Physics Research Portfolio.
